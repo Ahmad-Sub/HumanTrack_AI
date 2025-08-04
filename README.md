@@ -4,10 +4,7 @@ Setup
 Prerequisites
 Python 3.7+
 Pipenv or virtualenv for Python environment management
-Installation
-Clone the repository:
 
-git clone (https://github.com/41Labs/Pax-Counter-AI.git) cd (Pax-Counter-AI)
 
 Install dependencies:
 
